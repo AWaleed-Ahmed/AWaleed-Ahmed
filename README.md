@@ -4,12 +4,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Learner;Game+AI+Developer;Python+&+JS+Fullstack;Always+Learning&center=true&width=700&height=50&color=ff3c3c"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Learner;Game+AI+Developer;Always+Learning&center=true&width=700&height=50&color=ff3c3c"/>
 </p>
 
 ---
 
-### 🌌 About Me
+###  About Me
 <p align="center">
   <code style="color:#ff3c3c;">Python | NumPy | FastAPI | PyCapsule | React.js | Node.js | TensorFlow | Git</code>
 </p>
@@ -59,15 +59,12 @@
 </p>
 
 ---
-
-### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/AWaleed-Ahmed/commit-snake/refs/heads/main/github-contribution-snake.svg"/>
 </p>
 
 ---
 
-### 👀 Visitors
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AWaleed-Ahmed&color=ff3c3c"/>
 </p>
