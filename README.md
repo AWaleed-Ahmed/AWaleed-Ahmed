@@ -61,9 +61,9 @@
 ---
 
 ### 🐍 Contribution Snake
-[<p align="center">
-<img src="[https://github.com/AWaleed-Ahmed/AWaleed-Ahmed/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/AWaleed-Ahmed/commit-snake/refs/heads/main/github-contribution-snake.svg)"/>
-</p>]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AWaleed-Ahmed/commit-snake/refs/heads/main/github-contribution-snake.svg"/>
+</p>
 ---
 
 ### 👀 Visitors
