@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,fastapi,react,nodejs,tensorflow,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,nodejs,tensorflow,git,linux" />
 </p>
 
 ---
