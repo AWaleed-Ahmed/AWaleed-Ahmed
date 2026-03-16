@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x250/ff0000/330000?text=Cyberpunk+Neofetch+Profile+Banner" />
-</p>
 
 <h1 align="center">
-  <span style="color:#ff3c3c">⚡ Hello, I'm Waleed ⚡</span>
+  <span style="color:#ff3c3c"> Hello, I'm Waleed </span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Learner;Game+AI+Developer;Python+&+JS+Fullstack;Always+Hacking&center=true&width=700&height=50&color=ff3c3c"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Learner;Game+AI+Developer;Python+&+JS+Fullstack;Always+Learning&center=true&width=700&height=50&color=ff3c3c"/>
 </p>
 
 ---
@@ -65,9 +62,8 @@
 
 ### 🐍 Contribution Snake
 [<p align="center">
-<img src="https://github.com/AWaleed-Ahmed/AWaleed-Ahmed/blob/output/github-contribution-grid-snake.svg"/>
-</p>](https://raw.githubusercontent.com/AWaleed-Ahmed/AWaleed-Ahmed/main/output/github-contribution-grid-snake.svg)
-
+<img src="[https://github.com/AWaleed-Ahmed/AWaleed-Ahmed/blob/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/AWaleed-Ahmed/commit-snake/refs/heads/main/github-contribution-snake.svg)"/>
+</p>]
 ---
 
 ### 👀 Visitors
