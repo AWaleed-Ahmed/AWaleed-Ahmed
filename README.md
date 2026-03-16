@@ -23,21 +23,24 @@
 
 ---
 
-### 💻 Skills & Cyberpunk Stats
-<p align="center">
-<b style="color:#ff3c3c">Python</b>  
-<img src="https://progress-bar.dev/90/?title=Python&color=ff3c3c&width=300"/>
-<b style="color:#ff3c3c">NumPy</b>  
-<img src="https://progress-bar.dev/80/?title=NumPy&color=ff3c3c&width=300"/>
-<b style="color:#ff3c3c">FastAPI</b>  
-<img src="https://progress-bar.dev/70/?title=FastAPI&color=ff3c3c&width=300"/>
-<b style="color:#ff3c3c">React.js</b>  
-<img src="https://progress-bar.dev/80/?title=React.js&color=ff3c3c&width=300"/>
-<b style="color:#ff3c3c">Node.js</b>  
-<img src="https://progress-bar.dev/75/?title=Node.js&color=ff3c3c&width=300"/>
-<b style="color:#ff3c3c">AI & ML</b>  
-<img src="https://progress-bar.dev/85/?title=AI%20%26%20ML&color=ff3c3c&width=300"/>
-</p>
+### 💻 Skills
+**Python**  
+![Python](https://img.shields.io/badge/Python-90%25-red?style=for-the-badge&logo=python&logoColor=white)
+
+**NumPy**  
+![NumPy](https://img.shields.io/badge/NumPy-80%25-red?style=for-the-badge&logo=numpy&logoColor=white)
+
+**FastAPI**  
+![FastAPI](https://img.shields.io/badge/FastAPI-70%25-red?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**React.js**  
+![React](https://img.shields.io/badge/React-80%25-red?style=for-the-badge&logo=react&logoColor=white)
+
+**Node.js**  
+![Node.js](https://img.shields.io/badge/Node.js-75%25-red?style=for-the-badge&logo=node.js&logoColor=white)
+
+**AI & ML**  
+![AI & ML](https://img.shields.io/badge/AI%20%26%20ML-85%25-red?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ---
 
