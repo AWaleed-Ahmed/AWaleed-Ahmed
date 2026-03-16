@@ -73,14 +73,14 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/AWaleed-Ahmed/AWaleed-Ahmed/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 ### 🎇 Visitors
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff3c3c"/>
+<img src="https://komarev.com/ghpvc/?username=AWaleed-Ahmed&color=ff3c3c"/>
 </p>
 
 ---
