@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://via.placeholder.com/900x150/FF0000/330000?text=Cyberpunk+Profile" />
+</p>
 <h1 align="center">
-  <span style="color:#ff3c3c">⚡ Welcome to Friend's Cyberpunk GitHub ⚡</span>
+  <span style="color:#ff3c3c">Hello I'm Waleed⚡</span>
 </h1>
 
 <p align="center">
