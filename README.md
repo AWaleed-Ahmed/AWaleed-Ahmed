@@ -24,8 +24,6 @@
 **Python**  
 ![Python](https://img.shields.io/badge/Python-90%25-red?style=for-the-badge&logo=python&logoColor=white)
 
-**NumPy**  
-
 **FastAPI**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-70%25-red?style=for-the-badge&logo=fastapi&logoColor=white)
 
