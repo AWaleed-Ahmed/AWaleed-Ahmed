@@ -64,9 +64,9 @@
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
+[<p align="center">
 <img src="https://github.com/AWaleed-Ahmed/AWaleed-Ahmed/blob/output/github-contribution-grid-snake.svg"/>
-</p>
+</p>](https://raw.githubusercontent.com/AWaleed-Ahmed/AWaleed-Ahmed/main/output/github-contribution-grid-snake.svg)
 
 ---
 
