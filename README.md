@@ -2,24 +2,25 @@
 
 Islamabad, Pakistan
 
-Software engineer working on systems interfaces, language bindings, and product tooling.  
-Currently focused on making complex C/C++ systems easier to use from Python.
+Software engineer building AI-powered tools, developer infrastructure, and systems interfaces.  
+Currently exploring LLMs and the harnesses that connect models to tools, execution, and evaluation.
 
 ### Current work
 
-**Google Summer of Code 2026** — [BRL-CAD](https://brlcad.org)  
-[BRL-CAD Python Bindings](https://github.com/AWaleed-Ahmed/brlcad-python-bindings) — Python bindings for BRL-CAD via ctypes and a small C bridge.
+Building [Raphael](https://github.com/AWaleed-Ahmed/Raphael) and [Ignis](https://github.com/AWaleed-Ahmed/Ignis) — tools for investigating Kubernetes deployment failures, reproducing them in sandboxes, and validating repairs for review.
 
-Also contributing upstream to BRL-CAD / MOOSE: C API work that exposes engine features behind a stable ABI for cross-language bindings.
+Learning about LLMs, agent harnesses, tool use, and evaluation, with a focus on making AI-assisted workflows reliable and grounded in evidence.
 
 ### Selected work
 
-- [Pitchside Pulse](https://github.com/MuhammadAashirAslam/PitchSidePulse) — real-time World Cup companion: live momentum, Fan IQ predictions, and a Telegram alert bot on TxLINE.
-- [BRL-CAD Python Bindings](https://github.com/AWaleed-Ahmed/brlcad-python-bindings) — GSoC project bringing BRL-CAD’s solid modeling into Python.
+- [BRL-CAD Python Bindings — GSoC 2026](https://github.com/AWaleed-Ahmed/brlcad-python-bindings) — Bringing BRL-CAD’s solid modeling engine to Python with intuitive geometry APIs and automatic memory management.
+- [Raphael](https://github.com/AWaleed-Ahmed/Raphael) — Turns Kubernetes deployment failures into evidence-backed diagnoses and sandbox-validated repair proposals for human review.
+- [Ignis](https://github.com/AWaleed-Ahmed/Ignis) — Rust sandbox executor that reproduces Kubernetes failures and validates candidate repairs in controlled environments.
+- [Raqam](https://github.com/AmazingDude/raqam) — AI-assisted bookkeeping that turns statements and receipts into reviewable financial records, with answers grounded in the books.
 
 ### Focus
 
-Python · C/C++ interfaces · APIs · open-source tooling · Next.js
+AI & LLMs · Agent harnesses · Developer tooling · Python · Rust · C/C++ interfaces
 
 ### Elsewhere
 
